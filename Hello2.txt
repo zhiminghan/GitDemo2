@@ -1,4 +1,0 @@
-hello world!!
-hello git!!
-hello java!!
-hello python!!
